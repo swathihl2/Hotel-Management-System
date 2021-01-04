@@ -58,10 +58,6 @@ background: black;
 text-decoration-color: black;
 color: black;
 }
-
-
-
-
 </style>
 
 </html>
