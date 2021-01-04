@@ -1,0 +1,144 @@
+label{
+ 	color: white;
+background="#91FF33";
+background-color: "#D8BFD8";
+text-decoration-color: white;
+color: black;
+text-align: center;
+text-align: justify-all;
+display:inline-block;width:200px;margin-bottom:20px;
+ }
+body{
+  background : #91FF33;
+  background-color: #D8BFD8 ;
+  text-decoration-color: white;
+  color:black;
+  text-align: center; 
+    text-align: justify-all;
+  background-image: url('');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+
+ 
+}
+
+table.login{
+border: 10px solid;
+opacity: 70%;
+background: black;
+text-decoration-color: black;
+color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.6;
+  background-color: "#D8BFD8";
+
+}
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+ 
+  font-size: 18px;
+}
+a{
+    font-size: 15px;
+    resize: 15px;
+    
+    text-decoration: none; 
+}
+a:link{
+    color : white ;
+    text-decoration: none:; 
+}
+a:visited{
+    color: white;
+}
+ a:hover{
+  color: white;
+}
+ a:active{
+    color : white;
+}
+.btn{
+    border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+ 
+  font-size: 18px;
+}
+.btn:hover{
+  opacity: 0.7;
+}
+
+label{
+  color: white;
+
+  display:inline-block;width:200px;margin-bottom:20px;
+ }
+
+.subbtn{
+    cursor: pointer;
+
+   display: inline-block;
+   color: black;
+   background: green;
+    text-align: center;
+  cursor: pointer;
+ 
+  font-size: 20px;
+
+}
+.subbtn:hover{
+  opacity: 0.7;
+}
+.search{
+  width:200px;margin-bottom:20px;
+ }
+
+}
+table{
+border: 10px solid;
+opacity: 70%;
+background: black;
+text-decoration-color: black;
+color: black;
+}
+.txtbtn{
+    cursor: pointer;
+  font-size: 18px;
+   display: inline-block;
+   color: black;
+   background: skyblue;
+    text-align: center;
+  cursor: pointer;
+ 
+  font-size: 18px;
+}
+.txtbtn:hover{
+  opacity: 0.7;
+}
+button {
+ 
+  cursor: pointer;
+  font-size: 18px;
+}
+button:hover, a:hover {
+  opacity: 0.7;
+}
+a{
+  color: white;
+}
